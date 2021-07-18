@@ -1,5 +1,5 @@
 ---
-layout: _posts
+layout: page
 title: Machine learning
 categories: jekyll update
 ---
