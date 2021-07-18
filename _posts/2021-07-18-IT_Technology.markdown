@@ -5,8 +5,11 @@ categories: jekyll update
 ---
 
 [Machine Learning][machine_learning_page]
+
 [Blockchain and Cryptocurrencies][Blockchain_and_cryptocurrencies_page]
+
 [Autonomous Vehicles][Autonomous_vehicles_page]
+
 [AI in Cybersecurity][Cybersecurity_page]
 
 
