@@ -5,11 +5,14 @@ categories: jekyll update
 ---
 
 [Machine Learning][machine_learning_page]
-[Machine Learning][machine_learning_page]
-[Machine Learning][machine_learning_page]
-[Machine Learning][machine_learning_page]
+[Blockchain and Cryptocurrencies][Blockchain and cryptocurrencies_page]
+[Autonomous Vehicles][Autonomous_vehicles_page]
+[AI in Cybersecurity][Cybersecurity_page]
+
+
+
 
 [machine_learning_page]: /TerryTopGroupAssignment2/machine_learning
-[machine_learning_page]: /TerryTopGroupAssignment2/machine_learning
-[machine_learning_page]: /TerryTopGroupAssignment2/machine_learning
-[machine_learning_page]: /TerryTopGroupAssignment2/machine_learning
+[Cybersecurity_page]: /TerryTopGroupAssignment2/Blockchain_and_cryptocurrencies
+[Autonomous_vehicles_page]: /TerryTopGroupAssignment2/Autonomous_vehicles
+[Cybersecurity_page]: /TerryTopGroupAssignment2/Cybersecurity
