@@ -1,6 +1,7 @@
 ---
 layout: post
 title: IT Works
+categories: jekyll update
 ---
 
 some content
