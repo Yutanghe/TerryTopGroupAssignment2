@@ -1,9 +1,15 @@
 ---
 layout: post
-title: IT Technology -
+title: IT Technology
 categories: jekyll update
 ---
 
-[Jekyll docs][jekyll-docs]
+[Machine Learning][machine_learning_page]
+[Machine Learning][machine_learning_page]
+[Machine Learning][machine_learning_page]
+[Machine Learning][machine_learning_page]
 
-[jekyll-docs]: https://yutanghe.github.io/TerryTopGroupAssignment2/jekyll/update/2021/07/18/IT_Technology_Machine_Learning.html
+[machine_learning_page]: /TerryTopGroupAssignment2/machine_learning
+[machine_learning_page]: /TerryTopGroupAssignment2/machine_learning
+[machine_learning_page]: /TerryTopGroupAssignment2/machine_learning
+[machine_learning_page]: /TerryTopGroupAssignment2/machine_learning

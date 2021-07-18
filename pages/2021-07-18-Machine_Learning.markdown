@@ -1,8 +1,10 @@
 ---
 layout: "page"
 title: Machine Learning
-author: Kim
+date: 2021-07-18
+permalink: "/machine_learning"
 ---
+author: Kim
 
 What does it do?
 
