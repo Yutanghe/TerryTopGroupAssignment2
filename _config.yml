@@ -20,15 +20,16 @@
 
 title: Terry Top Team Project
 member1: Yutanghe
-email: s3914127@student.rmit.com.au
+email_1: s3914127@student.rmit.com.au
 member2: Cayden 
-email: s3917982@sutdent.rmit.com.au
+email_2: s3917982@student.rmit.com.au
 member3: Kim
-email: s3916921@sutdent.rmit.com.au
+email_3: s3916921@student.rmit.com.au
 member4: Aiden
-email: s3843894@sutdent.rmit.com.au
+email_4: s3843894@student.rmit.com.au
 member5: Anh
-email: s3804723@sutdent.rmit.com.au
+email_4: s3804723@student.rmit.com.au
+print(member5)
 description: >- # this means to ignore newlines until "baseurl:"
   Website to hold all of our current Terry Top Team Project work and to show our future plans for productions
 baseurl: "/TerryTopGroupAssignment2" # the subpath of your site, e.g. /blog
