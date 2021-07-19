@@ -11,3 +11,13 @@ categories: jekyll update
 | Tony  | Software engineering manager  |   |   |   |   |   |
 | Cayden  | Software developer  |   |   |   |   |   |
 | Anh  | Security software developer  |   |   |   |   |   |
+
++---------------+---------------+--------------------+
+| Fruit         | Price         | Advantages         |
++===============+===============+====================+
+| Bananas       | $1.34         | - built-in wrapper |
+|               |               | - bright color     |
++---------------+---------------+--------------------+
+| Oranges       | $2.10         | - cures scurvy     |
+|               |               | - tasty            |
++---------------+---------------+--------------------+
