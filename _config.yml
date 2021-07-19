@@ -19,16 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Terry Top Team Project
-name1: Yutanghe
-email_1: s3914127@student.rmit.com.au
-name2: Cayden
-email_2: s3917982@student.rmit.com.au
-name3: Kim
-email_3: s3916921@student.rmit.com.au
-name4: Aiden
-email_4: s3843894@student.rmit.com.au
-name5: Anh
-email_5: s3804723@student.rmit.com.au
+email: abc@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Website to hold all of our current Terry Top Team Project work and to show our future plans for productions
 baseurl: "/TerryTopGroupAssignment2" # the subpath of your site, e.g. /blog
