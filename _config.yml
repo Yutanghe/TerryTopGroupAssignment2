@@ -18,17 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Yutanghe
-email: s3914127@student.rmit.com.au
-title: Cayden
-email: s3917982@student.rmit.com.au
-title: Kim
-email: s3916921@student.rmit.com.au
-title: Aiden
-email: s3843894@student.rmit.com.au
-title: Anh
-email: s3804723@student.rmit.com.au
 title: Terry Top Team Project
+name1: Yutanghe
+email_1: s3914127@student.rmit.com.au
+name2: Cayden
+email_2: s3917982@student.rmit.com.au
+name3: Kim
+email_3: s3916921@student.rmit.com.au
+name4: Aiden
+email_4: s3843894@student.rmit.com.au
+name5: Anh
+email_5: s3804723@student.rmit.com.au
 description: >- # this means to ignore newlines until "baseurl:"
   Website to hold all of our current Terry Top Team Project work and to show our future plans for productions
 baseurl: "/TerryTopGroupAssignment2" # the subpath of your site, e.g. /blog
