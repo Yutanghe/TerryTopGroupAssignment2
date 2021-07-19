@@ -6,8 +6,8 @@ categories: jekyll update
 
 | Name:  | Job Preference  | Job role  | Experience requirments  | Common elements  | Unique?  | Career plan similarities/differences  |
 |---|---|---|---|---|---|---|
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
+| Kim  | Full stack developer  |   |   |   |   |   |
+| Aiden  | Information systems security engineer |   |   |   |   |   |
+| Tony  | Software engineering manager  |   |   |   |   |   |
+| Cayden  | Software developer  |   |   |   |   |   |
+| Anh  | Security software developer  |   |   |   |   |   |
