@@ -19,7 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Terry Top Team Project
-member/emails: Yutanghe
+member/emails: |
+Yutanghe
 s3914127@student.rmit.com.au
 Cayden 
 s3917982@student.rmit.com.au
