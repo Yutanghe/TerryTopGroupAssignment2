@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Ideal Job Table
+layout: page
+title: Team Career Goal
 categories: jekyll update
 ---
 

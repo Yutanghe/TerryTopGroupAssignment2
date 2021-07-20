@@ -1,8 +1,7 @@
 ---
-layout: "page"
-title:  AI in Cybersecurity
-date: 2021-07-18
-permalink: "/Cybersecurity"
+layout: post
+title: "Technology Research: AI in Cybersecurity"
+date: 2021-07-03
 ---
 author: Ahn
 

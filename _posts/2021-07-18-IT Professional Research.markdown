@@ -1,85 +1,8 @@
 ---
 layout: post
-title: Industry Data
+title: "IT Professional Research"
 categories: jekyll update
 ---
-
-Industry Data
-Using the Burning Glass data from the assessment page, and any other data you may find:
-
-https://rmit.instructure.com/courses/84941/assignments/577193
-
-
--What are the Job Titles for your group's ideal jobs? How do each of these rank in terms of demand from employers?
--Full stack developer - 17th in top IT job titles (Burning Glass, 2018) - Kim
--Information systems security engineer - 4th in top It job Titles (Burning Glass, 2018) Aidan
--Software engineering manager -
--Software developer-
--Security software developer-
--Security engineer -
-
--From your group's ideal jobs, you can identify a set of skills required for these jobs (we will refer to this as your group's required skill set). These can be divided into general skills (communication, problem solving, writing etc) and IT-specific skills (Javascript, SQL, etc).
-
-General skills required for each job include: Communication skills, problem solving, teamwork and collaboration skills, troubleshooting, time management…??
-
-IT-specific skills needed for each job include: ……….???
-
-Aidan- building relationships, systems engineering
-
-
-- How do the IT-specific skills in your required skill set rank in terms of demand from employers?
-
-
-- How do the general skills in your required skill set rank in terms of demand from employers?
-
-
-- What are the three highest ranked IT-specific skills which are not in your required skill set?
-
-SQL
-Microsoft windows
-SAP
-
-- What are the three highest ranked general skills which are not in your required skill set?
-
-Organizational Skills
-Troubleshooting
-Planning
-
-
-
-
-
-
-- Having looked at the Burning Glass data, has your opinion of your ideal job changed?
-
-Aidan:
-When looking at the data supplied by burning glass it can be seen that Generalised skills such as communication and teamwork are of high demand and are an integral part of being a Information systems security engineer.
-
-Kim:
-Some of the more in-demand IT-specific skills to become a Full Stack Developer are SQL, JavaScript, and use of Git. Top generic skills for Full Stack Developers include communication skills, teamwork and collaboration, troubleshooting, and requires organisational skills.
-
-The highest ranked IT skills not in the required skill set are: SAP, business management, business analysis. The highest ranked general skills not in the required skill set are: writing, planning, and research.
-
-Looking at the job data, it seems front end developers have more job availability than full stack developers. I think I could shift my focus to primarily learning front end development and languages due to the greater demand of front end developers.
-
-
-Tony:
-The skill Set of software engineering manager ranges from the some of the most demanding skill set like communication and team working skill
-while at the same time also require some of the least demanding skill sets like management decision making.
-Some demanding skills that are not required in my roles are problem solving, organising and writing.
-My job is that it has some highly transferable skill sets making it very versatile in terms of how well the skill set can transfer to other jobs.
-After looking at burning glass data my opinion on my ideal job has not changed.
-
-
-
-IT Work
-View, summarise and discuss at least 10 YouTube videos or other web sources
-If you choose the web sources option, you need to report on 5 different IT professionals, as well as indicate your 10 sources. Whichever source of information you use, you should answer the following questions.
-• What kind of work is done by the IT professional?
-• What kinds of people does the IT professional interact with? Are they other IT professionals? Clients? Investors? The  general public?
-• Where does the IT professional spend most of their time?
-• What aspect of their position is most challenging?
-
 
 -Front end developer - Kim
 Linje, G 2021, What does a Frontend Developer Actually Do?, YouTube, 25 January, viewed 16 July 2021, <https://www.youtube.com/watch?v=UlG62IXqa5k>.
@@ -98,24 +21,31 @@ The front end developer spends around 70% of their time coding, but also collabo
 • What aspect of their position is most challenging?
 Having to be able to use different libraries due to different teams using other resources requires you to be adaptable and flexible to change. Having communication breakdowns would be a huge issue in this role as collaboration with other team members and their areas of expertise is essential to create a cohesive end product.
 
-
 Cayden - Software developer videos & summary
-
 ‘What Does a Software Developer Do?’
 -https://www.youtube.com/watch?v=NF3sIsdg2jY
--software developers create, update and bigfix programs using different programming languages and writing code
--software developers use integrated development environments (IDE’s) to run, test and execute sections of code
--junior developers write and review code
--senior developers review and mentor juniors developers code
--lots of meetings to make sure everyone is working as a synchronized team
 
 ‘What do I ACTUALLY do as a Software Developer?’
 -https://www.youtube.com/watch?v=leOX1ehXHNM
-1. Building features - understanding the code and data behind a program in order to properly integrate the new feature into the program
-2. Fixing bugs - going through lists of known and potential bugs and attempting to fix them while cleaning up or rewriting existing code for future use
-3. Continued learning - researching different frameworks and learning new skills in order to accomplish their tasks and build their coding knowledge
-4. Communication - meetings and communicating with project managers/business analysts and other developers to help with production of the code
-5. Production issues - a major form of bug that is system wide that causes serious problems (system wide outage or important user having a problem) that needs to be fixed ASAP
+• What kind of work is done by the IT professional?
+Software developers create, update and bigfix programs using different programming languages and writing code
+Software developers use integrated development environments (IDE’s) to run, test and execute sections of code
+Building features - understanding the code and data behind a program in order to properly integrate the new feature into the program
+Fixing bugs - going through lists of known and potential bugs and attempting to fix them while cleaning up or rewriting existing code for future use
+
+• What kinds of people does the IT professional interact with? Are they other IT
+professionals? Clients? Investors? The  general public?
+
+lots of meetings to make sure everyone is working as a synchronized team,
+meetings and communicating with project managers/business analysts and other developers to help with production of the code
+
+• Where does the IT professional spend most of their time?
+
+Continued learning - researching different frameworks and learning new skills in order to accomplish their tasks and build their coding knowledge and coding different parts of programs
+
+• What aspect of their position is most challenging?
+
+Production issues - a major form of bug that is system wide that causes serious problems (system wide outage or important user having a problem) that needs to be fixed ASAP
 
 -Tony
 'What Does A Google Engineering Manager Do?'
@@ -156,11 +86,15 @@ Most of the time they spend monitoring, testing and upgrading security technique
 • What aspect of their position is most challenging?
 The difficult challenge facing cybersecurity professionals is that the plethora of regulations and laws enacted today create precedence, or worse, conflicts between them. In addition, the lack of expertise in cybersecurity leads to a high crime rate, especially for Ransomware, which is growing rapidly during the current covid-19 pandemic.
 
-Aidan -
+Aidan -  CEO of Tesla Motors
 • What kind of work is done by the IT professional?
+Elon Musk is CEO of Tesla motors. His work ranges from overseeing teams and projects, and also works alongside some engineering teams within tesla in the design stages giving his inputs.
 
 • What kinds of people does the IT professional interact with? Are they other IT professionals? Clients? Investors? The  general public?
+Elon interacts with I.T individuals such as programers, software engineers, Robotic engineers, he also interacts with robotics within the factories. He also interacts with clients and consumers, keeping client relationships healthy and interacting with other competitors. He also interacts with the public via social platforms, giving access behind the scenes on the operation of the tesla factories, he also communicates news within Tesla to the society.
 
 • Where does the IT professional spend most of their time?
+Elon musk is known to be a busy individual, Spending his time between multiple businesses. But  outlined in the interview he spends large quantities of time between gigafactories (Tesla Factories) and meetings with head engineers in all areas of the manufacturing stages of the Tesla range.
 
 • What aspect of their position is most challenging?
+The most challenging part of his position would be managing such a large company which is based in multiple countries, with large teams and many areas within the production process. Trying to oversee many areas of the manufacturing process, from engineering areas, to the design teams, to the Research and Development teams.
