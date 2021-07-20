@@ -43,7 +43,7 @@ And as the technology progresses, information technology education must anticipa
 
 
 
-# Refereces
+# References
 
 SAS 2021, Machine Learning and Artificial Intelligence, SAS Institute, viewed 16 July 2021, < https://www.sas.com/en_au/insights/articles/analytics/machine-learning-and-artificial-intelligence-in-a-brave-new-world.html >.
 
