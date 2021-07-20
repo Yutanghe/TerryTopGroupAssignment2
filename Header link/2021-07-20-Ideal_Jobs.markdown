@@ -1,8 +1,14 @@
 ---
-layout: page
-title: Team Career Goal
-categories: jekyll update
+layout: post
+title: "Team Career Goals"
+date: 2021-07-04
+permalink: "/Career_Goals.html"
 ---
+
+
+
+<img src="pic/goal2.jpg" width="300px">
+
 
 | Name:  | Job Preference  | Job role  | Experience requirments  | Common elements  | Unique?  | Career plan similarities/differences  |
 |---|---|---|---|---|---|---|
