@@ -41,3 +41,18 @@ Adapting to automated vehicles will alter the mode choice and built environment 
 
 
   “I could do something productive on my trip.” “We waste a lot of time behind the wheel. To be able to be productive like on a plane or rail.” “It would let me do other tasks, such as eating, watch a movie, be on cell phone while you are on your trip.” “It would be easier to conduct business or for personal time.” “I spend a lot of time driving; it would be nice to be able to do other things.” “My commute is short, but it would allow me to do other things.” “Reduce stress of living in big city. Get in vehicle and work on other things. Make it a more productive trip.” (As cited by Zmud 2017).  
+  
+
+
+# References 
+
+Mallozzi, P., Pelliccione, P., Knauss, A., Berger, C., & Mohammadiha, N. (2019). Autonomous Vehicles: state of the art, future trends, and challenges. Automotive Systems and Software Engineering, 347-367.
+
+Meyer, J., Becker, H., Bösch, P. M., &Axhausen, K. W. (2017). Autonomous vehicles: The next jump in accessibilities?. Research in transportation economics, 62, 80-91.
+
+Hörl, S., Ciari, F., & Axhausen, K. W. (2016). Recent perspectives on the impact of autonomous vehicles. Arbeitsberichte Verkehrs-und Raumplanung, 1216.
+
+Spence, J. C., Kim, Y. B., Lamboglia, C. G., Lindeman, C., Mangan, A. J., McCurdy, A. P., ... & Clark, M. I. (2020). Potential impact of autonomous vehicles on movement behavior: a scoping review. American journal of preventive medicine, 58(6), e191-e199.
+
+Zmud, J. P., & Sener, I. N. (2017). Towards an understanding of the travel behavior impact of autonomous vehicles. Transportation research procedia, 25, 2500-2519.
+
