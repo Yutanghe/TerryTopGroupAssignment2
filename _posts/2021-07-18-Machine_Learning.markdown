@@ -40,3 +40,15 @@ In my everyday life and for the people closest to me, I can see that machine lea
 As machine learning technology improves, there may even be more applications for these algorithms to make suggestions, predictions, or solutions, based on data gathered in daily life. The amount of data obtained from the internet of things in the average household and in businesses is sure to increase over time, as there is a heavy reliance on technology such as smartphones and computing devices for communication, productivity, and entertainment (SAS 2021). It is easy to imagine that workplaces would become more reliant on machine learning to streamline labour and business solutions, as well as entertainment technology utilising user data to tailor their products and services.  
 
 And as the technology progresses, information technology education must anticipate for a shift in priorities and job demands of the future and I think that machine learning and AI technology will be at the forefront of future technology, or at the very least, become a major part of it. Because of this, I think that AI technology such as machine learning will be a prominent part of my studies towards a Bachelor of Information Technology, and I will need to learn more and more about it as my studies progress.
+
+
+
+# Refereces
+
+SAS 2021, Machine Learning and Artificial Intelligence, SAS Institute, viewed 16 July 2021, <https://www.sas.com/en_au/insights/articles/analytics/machine-learning-and-artificial-intelligence-in-a-brave-new-world.html>.
+
+Dickson, B 2021, ‘The future of deep learning, according to its pioneers’, TechTalks, 1 July, viewed 16 July 2021, <https://bdtechtalks.com/2021/07/01/deep-learning-future-bengio-hinton-lecun />.
+
+IBM 2021, Machine Learning, International Business Machines Corporation, viewed 16 July 2021, <https://www.ibm.com/cloud/learn/machine-learning>.
+
+Tamkin, A 2021, ‘Broadening the Reach of Contrastive Learning with Viewmaker Networks’, blog post, 20 April, viewed 16 July 2021, <https://ai.stanford.edu/blog/viewmaker/>.
