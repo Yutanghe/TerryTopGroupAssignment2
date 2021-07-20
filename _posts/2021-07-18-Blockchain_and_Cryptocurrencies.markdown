@@ -50,3 +50,16 @@ And finally with more countries adopting blockchain technologies it will redefin
 
 The future of blockchain and other crypto technologies and the effect on our society probably won't impact us as much as one might first think, much like how as a society we slowly changed the way we spend our money and send information to one another, over time this  has become more technologically advanced but it fundamentally hasn't changed like how sending letters with paper has slowly converted into sending emails and texts over your phone.
 
+# References
+
+BuiltIn 2020, ‘What Is Blockchain Technology? How Does It Work?’, viewed 16 July 2021, https://builtin.com/blockchain 
+
+Luke C, Jun 1 2021, ‘Blockchain Explained’, viewed 16 July 2021,
+https://www.investopedia.com/terms/b/blockchain.asp
+
+Gwyneth I, April 17 2020, ‘Top Disadvantages Of Blockchain Technology’, viewed 16 July 2021, https://101blockchains.com/disadvantages-of-blockchain/
+
+Nicholas R, Jul 5 2021, ‘Types of Cryptocurrency’, viewed 16 July 2021, https://www.fool.com/investing/stock-market/market-sectors/financials/cryptocurrency-stocks/types-of-cryptocurrencies/
+
+Kyle S, April 10, 2020, ‘The future of blockchain’, viewed 18 July 2021, https://www.ibm.com/blogs/blockchain/2020/04/the-future-of-blockchain/
+
