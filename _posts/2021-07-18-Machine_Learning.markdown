@@ -45,10 +45,10 @@ And as the technology progresses, information technology education must anticipa
 
 # Refereces
 
-SAS 2021, Machine Learning and Artificial Intelligence, SAS Institute, viewed 16 July 2021, <https://www.sas.com/en_au/insights/articles/analytics/machine-learning-and-artificial-intelligence-in-a-brave-new-world.html>.
+SAS 2021, Machine Learning and Artificial Intelligence, SAS Institute, viewed 16 July 2021, < https://www.sas.com/en_au/insights/articles/analytics/machine-learning-and-artificial-intelligence-in-a-brave-new-world.html >.
 
-Dickson, B 2021, ‘The future of deep learning, according to its pioneers’, TechTalks, 1 July, viewed 16 July 2021, <https://bdtechtalks.com/2021/07/01/deep-learning-future-bengio-hinton-lecun />.
+Dickson, B 2021, ‘The future of deep learning, according to its pioneers’, TechTalks, 1 July, viewed 16 July 2021, < https://bdtechtalks.com/2021/07/01/deep-learning-future-bengio-hinton-lecun >.
 
-IBM 2021, Machine Learning, International Business Machines Corporation, viewed 16 July 2021, <https://www.ibm.com/cloud/learn/machine-learning>.
+IBM 2021, Machine Learning, International Business Machines Corporation, viewed 16 July 2021, < https://www.ibm.com/cloud/learn/machine-learning >.
 
-Tamkin, A 2021, ‘Broadening the Reach of Contrastive Learning with Viewmaker Networks’, blog post, 20 April, viewed 16 July 2021, <https://ai.stanford.edu/blog/viewmaker/>.
+Tamkin, A 2021, ‘Broadening the Reach of Contrastive Learning with Viewmaker Networks’, blog post, 20 April, viewed 16 July 2021, < https://ai.stanford.edu/blog/viewmaker/ >.
