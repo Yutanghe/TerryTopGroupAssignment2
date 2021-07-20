@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: post
 title: "Technology Research: AI in Cybersecurity"
 date: 2021-07-03
-permalink: "/Cybersecurity.html"
 ---
 author: Ahn
 

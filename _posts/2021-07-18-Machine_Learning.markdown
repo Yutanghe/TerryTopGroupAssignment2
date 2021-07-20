@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: post
 title: "Technology Research: Machine Learning"
 date: 2021-07-04
-permalink: "/Machine_Learning.html"
 ---
 author: Kim
 
