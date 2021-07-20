@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 author: Ahn
 
-<img src="pic/Cyber_security.jpeg" width="300px">
+<img src="pic/Cyber_security.jpeg" width="1125px">
 
 What does it do? 
  
