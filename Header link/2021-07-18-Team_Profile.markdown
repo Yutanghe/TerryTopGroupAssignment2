@@ -4,6 +4,10 @@ title: Team Profile
 categories: jekyll update
 ---
 
+
+<img src="pic/group1.jpg" width="300px">
+
+
 # Kim:
 My name is Kim Fyfe (S3916921), I am Filipino/Australian and live in Geelong. I studied Bachelor of Nursing/Psychological Science before changing course to study towards a Bachelor of IT. I like movies, tv shows, the internet, and hanging out with friends. Having grown up using the internet, I took an interest in internet technologies and learned some web design in high school. Due to my previous studies, I am interested in how technology can improve medical and healthcare services.
 The Myers–Briggs Type Indicator identifies me as a Logician/INTP-T, the Big Five Personality Traits highlight Openness to Experience and Agreeableness, and the Learning Style indicates that I am a tactile learner with some visual learning. The test results tell me that I am analytical, cooperative, sincere, open-minded, but I am an introverted and reserved person, with a tendency to overthink things and focus on logic rather than my own or other peoples’ feelings. In a group setting, I would most likely be sincere and try to complete tasks as efficiently as possible, would be open to ideas and cooperation, but I would not be very assertive and might be too self-conscious about my own work.
