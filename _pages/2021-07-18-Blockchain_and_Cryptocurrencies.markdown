@@ -2,7 +2,7 @@
 layout: page
 title: "Technology Research: Blockchain and Cryptocurrencies"
 date: 2021-07-02
-permalink: "/Blockchain_and_Cryptocurrencies"
+permalink: "/Blockchain_and_Cryptocurrencies.html"
 ---
 author: Cayden
 
