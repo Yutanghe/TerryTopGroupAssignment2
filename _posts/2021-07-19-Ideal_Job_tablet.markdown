@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ideal Job TableTest
+title: Ideal Job Table
 categories: jekyll update
 ---
 
