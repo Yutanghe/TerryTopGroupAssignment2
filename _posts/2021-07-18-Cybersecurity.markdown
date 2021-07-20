@@ -2,11 +2,15 @@
 layout: post
 title: "Technology Research: AI in Cybersecurity"
 date: 2021-07-03
-categories: jekyll update
+permalink: "/Cybersecurity.html"
 ---
+
+
+<img src="pic/Cyber_security.jpeg" width="300px">
+
 author: Ahn
 
-What does it do? 
+# What does it do?
  
 The volume of cyberthreats is staggering.  
 
@@ -30,7 +34,8 @@ Systems embedded with intelligence technologies, including machine learning and 
 
 Consider how AI in security analytics can aid in security incident and event management. A typical security team today is processing thousands and thousands of knowledge points, trying to form sure no hackers are sneaking in while also trying to remain informed about emerging threats and vulnerabilities. An intelligent system couldn't only ingest and learn from real-time data feeds but could use that information to flag a singular threat -- something that's not precisely the identical as what it had been trained to detect, but one it finds similar enough to spot as an argument. In particular, technology is additionally a song, a song or ever. Articles on unity are identical to using the results of military reasoning, planning, and analyzing major problems. In fact, technology is one all told the world's leading companies. 
  
-What is the likely impact?  
+
+# What is the likely impact?  
 
   
 
@@ -48,7 +53,7 @@ Over time, AI adversarial training can be included as a part of the supervised l
 
   
 
-How will this affect you?  
+# How will this affect you?  
 
   
 
@@ -61,11 +66,3 @@ A year ago, Amazon was in an exceedingly serious data crisis, when a series of t
   
 
 Keeping networks and safety systems could be a certainty. Maybe, it may be from AI and security networks. The benefit that comes in using someone in a very secure network isn't comparable, from which the best reason is that the threat develops and reacts quickly. The foremost important thing is that AI technology is growing and once it plays some key players during a network. 
-
-References 
-
-Sullivan, P. (2020, June 16). Unpack the use of AI in cybersecurity, plus pros and cons. SearchSecurity. <https://searchsecurity.techtarget.com/tip/Unpack-the-use-of-AI-in-cybersecurity-plus-pros-and-cons.>     
-
-2.    SearchSecurity. 2021. AI in security analytics is the enhancement you need. [online] Available at: <https://searchsecurity.techtarget.com/feature/AI-in-security-analytics-is-the-enhancement-you-need> [Accessed 18 July 2021]. 
-
-3.   Searchsecurity.techtarget.com. 2021. AI cybersecurity raises analytics' accuracy, usability. [online] Available at: <https://searchsecurity.techtarget.com/ezine/Information-Security/AI-cybersecurity-raises-analytics-accuracy-usability> [Accessed 18 July 2021]. 
