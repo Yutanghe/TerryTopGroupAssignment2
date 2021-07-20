@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Technology Research: AI in Cybersecurity"
 date: 2021-07-03
 ---

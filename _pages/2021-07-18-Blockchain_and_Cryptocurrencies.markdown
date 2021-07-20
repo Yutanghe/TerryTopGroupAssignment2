@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Technology Research: Blockchain and Cryptocurrencies"
 date: 2021-07-02
 ---
