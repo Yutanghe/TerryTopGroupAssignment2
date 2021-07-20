@@ -2,7 +2,7 @@
 layout: page
 title: "Technology Research: Autonomous Vehicles"
 date: 2021-07-04
-permalink: "/:categories/:year/:month/:day/:title"
+permalink:"/Autonomous_Vehicles"
 ---
 author: Yutang
 Autonomous vehicles

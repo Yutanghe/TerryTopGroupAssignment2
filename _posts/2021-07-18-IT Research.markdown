@@ -15,10 +15,10 @@ date: 2021-07-07
 [Blockchain and Cryptocurrencies][TR:B&C]
 
 
-[TR:ML]: https://yutanghe.github.io/TerryTopGroupAssignment2/2021/07/04/Machine_Learning.html
+[TR:ML]: https://yutanghe.github.io/TerryTopGroupAssignment2/Machine_Learning.html
 
-[TR:AV]:https://yutanghe.github.io/TerryTopGroupAssignment2/2021/07/04/Autonomous_Vehicles.html
+[TR:AV]:https://yutanghe.github.io/TerryTopGroupAssignment2/Autonomous_Vehicles.html
 
-[TR:C]:https://yutanghe.github.io/TerryTopGroupAssignment2/2021/07/03/Cybersecurity.html
+[TR:C]:https://yutanghe.github.io/TerryTopGroupAssignment2/Cybersecurity.html
 
-[TR:B&C]:https://yutanghe.github.io/TerryTopGroupAssignment2/2021/07/02/Blockchain_and_Cryptocurrencies.html
+[TR:B&C]:https://yutanghe.github.io/TerryTopGroupAssignment2/Blockchain_and_Cryptocurrencies.html
