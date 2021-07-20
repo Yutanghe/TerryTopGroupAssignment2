@@ -41,15 +41,15 @@ permalink: "/IT_Industry.html"
 
 <b>Project Management</b> - Ranked 5th highest Demanded skill
 
-<b>Business Management- Ranked 7th Highest Demanded skill
+<b>Business Management</b>- Ranked 7th Highest Demanded skill
  
-<b>Building relationships - Ranked 8th Highest Demanded skill
+<b>Building relationships</b> - Ranked 8th Highest Demanded skill
  
-<b>Software engineering - Ranked 15th Highest Demanded skill
+<b>Software engineering</b> - Ranked 15th Highest Demanded skill
  
-<b>Website production (HTML) - Ranked 17th Highest Demanded skill
+<b>Website production (HTML)</b> - Ranked 17th Highest Demanded skill
  
-<b>Systems Engineering - Ranked 24th Highest Demanded skill
+<b>Systems Engineering</b> - Ranked 24th Highest Demanded skill
 
 
 # Generalised Skills Employer Demand Rank
