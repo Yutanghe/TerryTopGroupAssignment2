@@ -6,6 +6,8 @@ categories: jekyll update
 ---
 author: Ahn
 
+<img src="pic/Cyber_security.jpeg" width="300px">
+
 What does it do? 
  
 The volume of cyberthreats is staggering.  
