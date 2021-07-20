@@ -1,20 +1,16 @@
 ---
-layout: post
+layout: page
 title: "Technology Research: Machine Learning"
 date: 2021-07-04
-categories: jekyll update
+permalink: "/Machine_Learning.html"
 ---
+
+
+<img src="/pic/Machine_learning.jpeg" width="300px">
+
 author: Kim
 
-What does it do?
-
-SAS 2021, Machine Learning and Artificial Intelligence, SAS Institute, viewed 16 July 2021, <https://www.sas.com/en_au/insights/articles/analytics/machine-learning-and-artificial-intelligence-in-a-brave-new-world.html>.
-
-Dickson, B 2021, ‘The future of deep learning, according to its pioneers’, TechTalks, 1 July, viewed 16 July 2021, <https://bdtechtalks.com/2021/07/01/deep-learning-future-bengio-hinton-lecun />.
-
-IBM 2021, Machine Learning, International Business Machines Corporation, viewed 16 July 2021, <https://www.ibm.com/cloud/learn/machine-learning>.
-
-Tamkin, A 2021, ‘Broadening the Reach of Contrastive Learning with Viewmaker Networks’, blog post, 20 April, viewed 16 July 2021, <https://ai.stanford.edu/blog/viewmaker/>.
+# What does it do?
 
 
 Machine learning is a subsection of artificial intelligence (AI), which uses complex algorithms to identify and decipher useful patterns from datasets of information (IBM 2021). Rather than specifically being programmed to sort through the data, machine learning creates a model based on the initial “pre-training data” to predict and decide on tasks (IBM 2021), and for this reason is also known as predictive modelling or predictive analytics. Manually inputting training data refines and improves accuracy of the predictions and tasks (SAS 2021).  
@@ -29,7 +25,7 @@ Recent developments in machine learning have allowed for algorithms to be self-s
 
 
 
-What is the likely impact?
+# What is the likely impact?
 
 Machine learning utilises complex algorithms in a large scale to discover useful patterns in data that would otherwise almost be impossible for humans to identify (IBM 2021). With this in mind, machine learning has the potential to improve efficiency in a number of sectors. Already, machine learning applications are used in a broad range of fields including retail, banking, sports, healthcare, and manufacturing (SAS 2021). As the technology improves over time and demand increases for machine learning, there is a belief that it would result in the redundancy of a wide range of jobs currently undertaken by humans (IBM 2021). However, solutions to these concerns need to be considered in each industry involved. An example is in the automotive sector where there is a focus on electric vehicle production to adapt to environmental concerns and initiatives (IBM 2021). Similarly, there will be a need to shift many labour force priorities into programming and technology fields, as machine learning replaces the type of work previously completed by humans. The setting up of and maintenance of reliable and beneficial machine learning still requires human insights and interaction throughout the process (SAS 2021). However, jobs involved in customer service and interactions that are too complex for machine learning to complete independently would remain (IBM 2021).
 
@@ -37,7 +33,7 @@ Applications of AI technologies such as machine learning are likely to be more w
 
 
 
-How will this affect you?
+# How will this affect you?
 
 In my everyday life and for the people closest to me, I can see that machine learning concepts are already used in applications such as tailoring search engine results, suggestions or recommendations of content in streaming services, social media feeds and online shopping based on previous behaviour, and also in searching for visually similar images in search engines, speech-to-text technology, and even “selfie” filters that analyse facial data to output manipulated images in real-time. It is expected that these algorithms will only become increasingly more commonplace and more involved in our lives over time.
 
