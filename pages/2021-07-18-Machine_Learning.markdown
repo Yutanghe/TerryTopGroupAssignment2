@@ -6,8 +6,7 @@ permalink: "/Machine_Learning.html"
 ---
 author: Kim
 
-![Picture for Machine Learning page](/assets/img/images.jpg)
-
+<img src="/pic/Machine_learning.jpeg" alt="machine learning" width="400"/>
 # What does it do?
 
 
