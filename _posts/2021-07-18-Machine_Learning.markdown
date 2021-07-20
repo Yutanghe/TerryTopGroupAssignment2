@@ -6,8 +6,7 @@ permalink: "/Machine_Learning.html"
 ---
 
 
-<img src="/pic/Machine_learning.jpeg" width="300px">
-<img src="pic/Self_driving.jpg" width="300px">
+<img src="pic/Machine_learning.jpeg" width="300px">
 
 author: Kim
 
