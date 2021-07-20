@@ -106,6 +106,10 @@ Some demanding skills that are not required in my roles are problem solving, org
 My job is that it has some highly transferable skill sets making it very versatile in terms of how well the skill set can transfer to other jobs.
 After looking at burning glass data my opinion on my ideal job has not changed.
 
+<b>Cayden:</b>
+
+The Burning glass data suggests that a software engineer is the seventh least sought after job in 2018 at around a third of the most, the skills required however (communication problem solving and teamwork) skills that are highly regarded soft skills are required for being an effective software developer. The highest skill in demand (SQL Javascript and JAVA) are also commonly used by software developers so the position will be very versatile and able to thrive in other roles.
+
 <b>Anh:</b>
  
 According to a report from burning glass, cybersecurity professionals also need communication and teamwork skills as well as some specialized skills that require high qualifications. And from the information about demanding professional qualifications and mandatory soft skills, the demand for recruitment for this industry is still on the rise in the future. Therefore, I do not intend to change my choice to become a cybersecurity.
