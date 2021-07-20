@@ -1,7 +1,14 @@
 ---
+<<<<<<< HEAD
 layout: post
 title: "Technology Research: Autonomous Vehicles"
 date: 2021-07-04
+=======
+layout: page
+title: "Technology Research: Autonomous Vehicles"
+date: 2021-07-04
+permalink: "/Autonomous_Vehicles.html"
+>>>>>>> 59783f1b8bbbf7d086e1efddad939d83ef6ff4b2
 ---
 author: Yutang
 

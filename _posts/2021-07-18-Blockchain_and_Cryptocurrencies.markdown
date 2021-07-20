@@ -1,7 +1,14 @@
 ---
+<<<<<<< HEAD
 layout: post
 title: "Technology Research: Blockchain and Cryptocurrencies"
 date: 2021-07-02
+=======
+layout: page
+title: "Technology Research: Blockchain and Cryptocurrencies"
+date: 2021-07-02
+permalink: "/Blockchain_and_Cryptocurrencies.html"
+>>>>>>> 59783f1b8bbbf7d086e1efddad939d83ef6ff4b2
 ---
 author: Cayden
 

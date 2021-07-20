@@ -1,7 +1,14 @@
 ---
+<<<<<<< HEAD
 layout: post
 title: "Technology Research: AI in Cybersecurity"
 date: 2021-07-03
+=======
+layout: page
+title: "Technology Research: AI in Cybersecurity"
+date: 2021-07-03
+permalink: "/Cybersecurity.html"
+>>>>>>> 59783f1b8bbbf7d086e1efddad939d83ef6ff4b2
 ---
 author: Ahn
 
