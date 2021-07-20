@@ -2,8 +2,10 @@
 layout: post
 title: "Technology Research: Autonomous Vehicles"
 date: 2021-07-04
-categories: jekyll update
+permalink: "/Autonomous_Vehicles.html"
 ---
+
+
 
 <img src="pic/Self_driving.jpg" width="300px">
 
