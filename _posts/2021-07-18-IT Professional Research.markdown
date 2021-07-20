@@ -6,7 +6,7 @@ permalink: "/IT_Professionals.html"
 ---
 
 
-<img src="pic/group2.jpg">
+<img src="pic/group2.jpg" width="300px">
 
 
 # Front end developer
