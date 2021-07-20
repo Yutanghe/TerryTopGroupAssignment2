@@ -1,7 +1,8 @@
 ---
-layout: page
-title: Team Profile
-categories: jekyll update
+layout: post
+title: "Team Profile"
+date: 2021-07-04
+permalink: "/Team_Profile.html"
 ---
 
 
