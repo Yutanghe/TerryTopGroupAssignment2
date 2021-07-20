@@ -6,7 +6,12 @@ layout: default
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
-
+  {%- if page.image -%}
+    <img src="{{- page.image | relative_url -}}" alt="" class="featured-image-post">
+  {%- else -%}
+    {%- assign postImage = "assets/img/images.jpg" -%}
+    <img src="{{- postImage | relative_url -}}" alt="" class="featured-image-post">
+  {%- endif -%}
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
